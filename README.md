@@ -1,10 +1,6 @@
 # Fooder
 ### ( An online food delivery application )
 
-## FsdAssignment2
-Name : Atul Raj\
-Roll No : S20200010026
-
 
 ## Available Scripts
 
